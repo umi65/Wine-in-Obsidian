@@ -1,0 +1,17 @@
+-   password： pn8hhvm8d6
+-   [酒標的基本地區標簽](https://vimeo.com/170011683)
+-   [法國的酒標簡介](https://vimeo.com/170013856)
+-   [Alsace的法規簡介]([https://vimeo.com/170014506](https://vimeo.com/170014506))
+-   [Germany的法規簡介](https://vimeo.com/170014513)
+-   [Austria的法規簡介](https://vimeo.com/170014511)
+-   [Tokaji甜酒的法規簡介](https://vimeo.com/170014512)
+-   [Burgundy的法規和酒等級分類的簡介](https://vimeo.com/170014507)
+-   [Bordeaux酒等級分類的簡介](https://vimeo.com/170014508)
+-   [西班牙酒的法規簡介](https://vimeo.com/170014514)
+-   [義大利酒的法規簡介](https://vimeo.com/170014515)
+	-   IGT
+	-   DOC
+	-   DOCG
+-   [希臘酒的法規簡介](https://vimeo.com/170014517)
+-   [USA和Canada酒的法規簡介](https://vimeo.com/170014519)
+-   [Chile，South Africa和Australia酒的法規簡介](https://vimeo.com/170014520)

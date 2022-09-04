@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "474e6c8bd3bce921",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28dbccf35ac99c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wine Fault.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7d45c035c759f35",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbf415ddc2fcfc87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a43bb58d75c606d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6cfe80a81bdc5c1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bea163c7f941b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e763337567b5f0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246fb9a772a0b95f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wine Fault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a28dbccf35ac99c9",
+  "lastOpenFiles": [
+    "WSET/Black Grape Varities/International Varieties/Cabernet Franc.md",
+    "Wine Fault.md",
+    "Temp./WSET Videos.md",
+    "Temp./有關剪枝.md",
+    "Temp./Botrytis.md",
+    "General/Mark down Help.md",
+    "WSET/New World/United States of America/California/Napa Valley/North County.md",
+    "WSET/France/New World/United States of America/California/California.md",
+    "WSET/Black Grape Varities/International Varieties/Carmenére.md",
+    "WSET/France/The Dordogne and South West France.md"
+  ]
+}

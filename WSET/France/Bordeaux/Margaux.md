@@ -1,0 +1,1 @@
+Varieties: [[Cabernet Sauvignon]], [[Merlot]]
